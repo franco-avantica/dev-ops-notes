@@ -948,7 +948,7 @@ ASG Brain dump
 1. Go to `left menu -> Auto Scaling Groups`
 2. Press on `Create Auto Scaling Group`
 
-###### Account Note
+###### Demo Account Note
 ```bash
 # My Demo Account URL
 https://fraldemoacc.signin.aws.amazon.com/console
